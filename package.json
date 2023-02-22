@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Use of npm, js, node and other tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Juanstor/npm.git"
+  },
+  "keywords": [
+    "npm",
+    "JavaScript",
+    "Node",
+    "Learning",
+    "Angular"
+  ],
+  "author": "Juan S. Alvarez <alvarezjuansbs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juanstor/npm/issues"
+  },
+  "homepage": "https://github.com/Juanstor/npm#readme"
+}
